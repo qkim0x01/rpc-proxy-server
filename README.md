@@ -5,27 +5,19 @@ proxy_server_server.cpp	Sever side defining services
 
 client.cpp		Client side calling services defined by server
 
-src/
+	src/
+		cache.h			cache header
+		cache.cpp		cache implementation
+		fifo.cpp		FIFO policy implementation
+		max.cpp			Max policy implementation
+		random.cpp		Random policy implementation
 
-cache.h			cache header
+	script/
+		test1			List of url for experiment(task1)
+		test2			List of url for experiment (task2)
+		parsing.py		Generating test url list
 
-cache.cpp		cache implementation
-
-fifo.cpp		FIFO policy implementation
-
-max.cpp			Max policy implementation
-
-random.cpp		Random policy implementation
-
-script/
-
-test1			List of url for experiment(task1)
-
-test2			List of url for experiment (task2)
-
-parsing.py		Generating test url list
-
-result/			To store result of experiments
+	result/			To store result of experiments
 
 
 --------------------
