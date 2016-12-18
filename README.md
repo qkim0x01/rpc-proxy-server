@@ -3,7 +3,7 @@
 --------------------
 
 	src/
-		proxy_server_server.cpp	Sever side defining services
+		proxy_server.cpp	Sever side defining services
 		client.cpp		Client side calling services defined by server
 		cache.h			cache header
 		cache.cpp		cache implementation
@@ -28,11 +28,11 @@
 2. To Compile
 --------------------
 
-$make
+	$make
 
 This will generate files :
-	proxy_server
-	proxy_client
+	- proxy_server
+	- proxy_client
 
 --------------------
 3. To Run Experiment
@@ -40,12 +40,11 @@ This will generate files :
 
 **Experiemnts should run only when Server is running**
 
-./run.sh FILE_NAME		// Runs both test1 and test2
-./run1.sh FILE_NAME		// Runs only test1
-./run2.sh FILE_NAME		// Runs only test2
-
-FILE NAME
-	file name to store experiment result (execution time, cache hit count)
+	./run.sh FILE_NAME		// Runs both test1 and test2
+	./run1.sh FILE_NAME		// Runs only test1
+	./run2.sh FILE_NAME		// Runs only test2
+	FILE NAME
+		file name to store experiment result in /result dir (execution time, cache hit count)
 
 These expeiment scripts will let the Client to pass test urls to Server, and receive the result of experiment back.
 
@@ -55,7 +54,7 @@ These expeiment scripts will let the Client to pass test urls to Server, and rec
 4. To Run Server
 --------------------
 
-Usage : proxy_server [options] 
+*Usage : proxy_server [options]*
 
 Options:
 
@@ -81,8 +80,7 @@ Usage : proxy_client TEST_FILE
 
 	TEST_FILE
 		We have two test files, test1 and test2.
-
-Example : ./proxy_client test1
+	Example : ./proxy_client test1
 
 
 
