@@ -11,12 +11,12 @@
 		max.cpp			Max policy implementation
 		random.cpp		Random policy implementation
 
-	script/
+	./script/
 		run.sh			 Runs both testcase 1 and 2
 		run1.sh 		 Runs only testcase1
 		run2.sh 		 Runs only testcase2
 
-	test/
+	./test/
 		test1			List of url for experiment(task1)
 		test2			List of url for experiment (task2)
 		parsing.py		Generating test url list
