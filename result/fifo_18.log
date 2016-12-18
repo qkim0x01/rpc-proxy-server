@@ -1,0 +1,77 @@
+Warming up caches ...
+
+================================================================
+
+Testing RPC Proxy Server, test set 1, run 1 
+
+Server time - 40.001961, Client time - 41.087688
+30 hits out of 116 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 1, run 2 
+
+Server time - 46.557030, Client time - 47.625970
+30 hits out of 116 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 1, run 3 
+
+Server time - 47.361261, Client time - 48.402617
+30 hits out of 116 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 1, run 4 
+
+Server time - 38.527818, Client time - 39.519164
+30 hits out of 116 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 1, run 5 
+
+Server time - 40.490565, Client time - 41.485398
+30 hits out of 116 requests
+
+================================================================
+
+Warming up caches ...
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 1 
+
+Server time - 12.457670, Client time - 13.024142
+55 hits out of 90 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 2 
+
+Server time - 16.132158, Client time - 16.794307
+55 hits out of 90 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 3 
+
+Server time - 25.358125, Client time - 26.052073
+55 hits out of 90 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 4 
+
+Server time - 44.488253, Client time - 45.208586
+55 hits out of 90 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 5 
+
+Server time - 12.844785, Client time - 13.543380
+55 hits out of 90 requests
+
+================================================================

@@ -1,0 +1,77 @@
+Warming up caches ...
+
+================================================================
+
+Testing RPC Proxy Server, test set 1, run 1 
+
+Server time - 87.126325, Client time - 88.091139
+80 hits out of 116 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 1, run 2 
+
+Server time - 24.631085, Client time - 25.766470
+79 hits out of 116 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 1, run 3 
+
+Server time - 30.207720, Client time - 31.257090
+80 hits out of 116 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 1, run 4 
+
+Server time - 29.633960, Client time - 30.715214
+80 hits out of 116 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 1, run 5 
+
+Server time - 24.775259, Client time - 25.696877
+80 hits out of 116 requests
+
+================================================================
+
+Warming up caches ...
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 1 
+
+Server time - 11.977231, Client time - 12.635378
+79 hits out of 90 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 2 
+
+Server time - 6.591967, Client time - 7.192215
+79 hits out of 90 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 3 
+
+Server time - 11.841547, Client time - 12.541232
+79 hits out of 90 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 4 
+
+Server time - 8.080831, Client time - 8.792437
+79 hits out of 90 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 5 
+
+Server time - 6.616096, Client time - 7.430484
+79 hits out of 90 requests
+
+================================================================

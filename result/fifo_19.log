@@ -1,0 +1,77 @@
+Warming up caches ...
+
+================================================================
+
+Testing RPC Proxy Server, test set 1, run 1 
+
+Server time - 37.662895, Client time - 38.550355
+30 hits out of 116 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 1, run 2 
+
+Server time - 47.069446, Client time - 48.132101
+30 hits out of 116 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 1, run 3 
+
+Server time - 37.541958, Client time - 38.542098
+30 hits out of 116 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 1, run 4 
+
+Server time - 58.669347, Client time - 59.701825
+30 hits out of 116 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 1, run 5 
+
+Server time - 39.498432, Client time - 40.540285
+30 hits out of 116 requests
+
+================================================================
+
+Warming up caches ...
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 1 
+
+Server time - 0.000407, Client time - 0.419242
+90 hits out of 90 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 2 
+
+Server time - 0.000435, Client time - 0.402975
+90 hits out of 90 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 3 
+
+Server time - 0.000376, Client time - 0.439872
+90 hits out of 90 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 4 
+
+Server time - 0.000429, Client time - 0.405233
+90 hits out of 90 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 5 
+
+Server time - 0.000456, Client time - 0.485793
+90 hits out of 90 requests
+
+================================================================

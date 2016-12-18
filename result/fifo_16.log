@@ -1,0 +1,38 @@
+Warming up caches ...
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 1 
+
+Server time - 42.035207, Client time - 42.842184
+0 hits out of 90 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 2 
+
+Server time - 32.830252, Client time - 33.565732
+0 hits out of 90 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 3 
+
+Server time - 33.835210, Client time - 34.669484
+0 hits out of 90 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 4 
+
+Server time - 34.339701, Client time - 35.138199
+0 hits out of 90 requests
+
+================================================================
+
+Testing RPC Proxy Server, test set 2, run 5 
+
+Server time - 32.692599, Client time - 33.436097
+0 hits out of 90 requests
+
+================================================================
