@@ -31,8 +31,8 @@
 	$make
 
 This will generate files :
-	- proxy_server
-	- proxy_client
+- proxy_server
+- proxy_client
 
 --------------------
 3. To Run Experiment
