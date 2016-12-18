@@ -1,11 +1,10 @@
 --------------------
 1. Main File List
 --------------------
-proxy_server_server.cpp	Sever side defining services
-
-client.cpp		Client side calling services defined by server
 
 	src/
+		proxy_server_server.cpp	Sever side defining services
+		client.cpp		Client side calling services defined by server
 		cache.h			cache header
 		cache.cpp		cache implementation
 		fifo.cpp		FIFO policy implementation
@@ -13,11 +12,16 @@ client.cpp		Client side calling services defined by server
 		random.cpp		Random policy implementation
 
 	script/
+		run.sh			 Runs both testcase 1 and 2
+		run1.sh 		 Runs only testcase1
+		run2.sh 		 Runs only testcase2
+
+	test/
 		test1			List of url for experiment(task1)
 		test2			List of url for experiment (task2)
 		parsing.py		Generating test url list
 
-	result/			To store result of experiments
+	result/				To store result of experiments
 
 
 --------------------
@@ -54,6 +58,7 @@ These expeiment scripts will let the Client to pass test urls to Server, and rec
 Usage : proxy_server [options] 
 
 Options:
+
 	-h		For available options or help
 	-size 	<num> 	Cache size, 2**<num> bytes (Default: 20 for 1MB)
 	-policy <num> 	Replacement policy (Default: 0):
@@ -62,7 +67,9 @@ Options:
 			2: 	fifo
 			3: 	max size
 
-Example: ./proxy_server -h
+Example:
+
+	 ./proxy_server -h
 	 ./proxy_server -size 21 -policy 2
 
 
